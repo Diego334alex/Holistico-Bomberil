@@ -66,8 +66,6 @@ header nav a.activo {
 }
 
 .contenido {
-	display: grid;
-	grid-template-columns: 3fr 1fr;
 	align-items: center;
 	flex-direction: column;
 	text-align: center;
